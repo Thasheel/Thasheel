@@ -1,16 +1,17 @@
-## Hi there 👋
+ 👋 Hi, I'm Mohammed Thasheel
 
-<!--
-**Thasheel/Thasheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate | 💻 Full-Stack Developer | ☁️ AWS Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building scalable web apps and exploring cloud, AI, and automation tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack
+- Languages:Java, Python, JavaScript
+- Frameworks:** Django, HTML/CSS
+- Tools: Git, AWS EC2, MySQL
+
+ 🌟 Featured Projects
+- Portfolio Website – HTML/CSS/JavaScript with Django backend
+- Virtual Hand Control – Real-time gesture control using OpenCV
+- Speech Recognition Tool – Python-based voice assistant
+
+📫 Let's connect and collaborate on innovative projects!
