@@ -11,6 +11,61 @@
 - ☁️ AWS & Cloud enthusiast  
 - 🤖 Interested in AI, computer vision, and automation  
 
+### 🖥️ Dev Terminal  
+
+<p align="center">
+  <svg width="600" height="180" viewBox="0 0 600 180" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect x="0" y="0" width="600" height="180" rx="12" fill="#020617" />
+
+    <!-- Title bar -->
+    <rect x="0" y="0" width="600" height="32" rx="12" fill="#02081f" />
+    <circle cx="24" cy="16" r="6" fill="#f97373" />
+    <circle cx="44" cy="16" r="6" fill="#facc15" />
+    <circle cx="64" cy="16" r="6" fill="#22c55e" />
+    <text x="90" y="21" fill="#9ca3af" font-size="12" font-family="Consolas, 'Fira Code', monospace">
+      ~/developer/logs
+    </text>
+
+    <!-- Terminal text -->
+    <g font-family="Consolas, 'Fira Code', monospace" font-size="14">
+      <!-- Line 1 -->
+      <text x="24" y="70" fill="#22c55e" opacity="0">
+        &gt; Initializing Full Stack Developer...
+        <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.3s" fill="freeze" />
+      </text>
+
+      <!-- Line 2 -->
+      <text x="24" y="95" fill="#22c55e" opacity="0">
+        &gt; Loading Java | Python | JavaScript | Django...
+        <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.5s" fill="freeze" />
+      </text>
+
+      <!-- Line 3 -->
+      <text x="24" y="120" fill="#22d3ee" opacity="0">
+        &gt; Connecting to AWS Cloud...
+        <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.7s" fill="freeze" />
+      </text>
+
+      <!-- Line 4 -->
+      <text id="ready-line" x="24" y="145" fill="#22c55e" opacity="0">
+        &gt; Ready to build 🚀
+        <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="3.9s" fill="freeze" />
+      </text>
+
+      <!-- Blinking cursor -->
+      <text x="210" y="145" fill="#22c55e" font-size="14">
+        ▊
+        <animate attributeName="opacity"
+                 values="0;1;0"
+                 dur="0.8s"
+                 begin="4.5s"
+                 repeatCount="indefinite" />
+      </text>
+    </g>
+  </svg>
+</p>
+
 ---
 
 ### 🔧 Tech Stack  
