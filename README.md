@@ -82,10 +82,7 @@
 
 ---
 
-<!-- SNAKE ANIMATION FOR CONTRIBUTIONS -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=500&center=true&vCenter=true&width=500&lines=🐍+Watch+My+Commits+Come+Alive;Animated+Contribution+Snake" />
-</p>
+
 
 <p align="center">
   <!-- This will work after you set up the snake GitHub Action -->
