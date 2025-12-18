@@ -84,10 +84,6 @@
 
 
 
-<p align="center">
-  <!-- This will work after you set up the snake GitHub Action -->
-  <img src="https://raw.githubusercontent.com/Thasheel/Thasheel/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
