@@ -1,75 +1,72 @@
-<!-- HERO + TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohammed+Thasheel+👋;Full-Stack+Developer+%7C+AWS+Enthusiast;I+Love+Cloud%2C+Automation%2C+%26+AI;Welcome+to+my+GitHub+Universe+✨" />
-</p>
+<h1 align="center">Hi, I'm Mohammed Thasheel 👋</h1>
+<h3 align="center">Full-Stack Developer | Cloud & DevOps | AI/Data Science</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif" />
+  Software Engineer at ClaySys Technologies, based in Kochi, Kerala, India.
 </p>
 
----
-
-<!-- ABOUT ME WITH ANIMATED ICON -->
-<h3 align="left">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
-  About Me
-</h3>
-
-- 🎓 **Computer Science Graduate**
-- 💻 **Full-Stack Developer** focusing on scalable web apps  
-- ☁️ **AWS & Cloud Enthusiast** (EC2, deployments, automation)  
-- 🤖 Exploring **AI, computer vision, and voice interfaces**  
-
----
-
-<!-- ANIMATED SECTION TITLE FOR TECH -->
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=500&color=4F46E5&width=450&lines=🔧+Tech+Stack;What+I+Love+to+Build+With+💡" />
-</p>
-
-<!-- LANGUAGES -->
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-<!-- FRAMEWORKS / TOOLS -->
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-<!-- FEATURED PROJECTS WITH ANIMATED BULLET ICON -->
-<h3>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" />
-  Featured Projects
-</h3>
-
-- ✨ **Portfolio Website** – [Live Demo](https://thasheel.github.io/Portfolio.io/-portfolio)  
-  _HTML/CSS/JavaScript + Django backend_  
-  • Responsive design, dynamic sections, and a clean modern UI.
-
-- ✋ **Virtual Hand Control**  
-  _Real-time gesture control using OpenCV_  
-  • Uses computer vision to read hand gestures and control interactions.
-
-- 🎙️ **Speech Recognition Tool**  
-  _Python-based voice assistant_  
-  • Listens to commands, triggers actions, and automates small tasks.
-
----
-
-<!-- GITHUB STATS (ANIMATED REFRESH) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=500&center=true&vCenter=true&width=500&lines=📊+GitHub+by+the+Numbers;Always+Learning%2C+Always+Building+🚀" />
+  <a href="https://thasheel.github.io/Portfolio.io/-portfolio">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/mohammedthasheel">LinkedIn</a> ·
+  <a href="mailto:mohdthasheelok@gmail.com">Email</a>
 </p>
+
+---
+
+### About Me
+
+- 🎓 B.Tech in Artificial Intelligence and Data Science, Anna University (2021–2025)
+- 💼 Software Engineer L1 at **ClaySys Technologies**
+- 🛠️ Full-stack development across **.NET, C#, React, Next.js, Django, Python**
+- ☁️ Working with **AWS, Azure, Docker, Jenkins**, and CI/CD pipelines
+- 🤖 Interested in applied AI, computer vision, and voice interfaces
+
+---
+
+### Tech Stack
+
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frameworks & Tools**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### Featured Projects
+
+**[Portfolio Website](https://thasheel.github.io/Portfolio.io/-portfolio)**
+HTML/CSS/JavaScript frontend with a Django backend — responsive, multi-section personal site.
+
+**AWS CI/CD Pipeline**
+EC2 deployment automation using Jenkins for build and release.
+
+**Virtual Hand Control**
+Real-time hand gesture recognition and control using OpenCV.
+
+**Speech Recognition Tool**
+Python-based voice assistant that listens for commands and triggers automated actions.
+
+**Heart Attack Risk Prediction**
+ML model for predicting cardiac risk from health data.
+
+---
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thasheel&show_icons=true&theme=tokyonight" height="160" />
@@ -82,31 +79,12 @@
 
 ---
 
+### Let's Connect
 
-
-
----
-
-<!-- CONNECT SECTION WITH ANIMATED TITLE -->
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=500&color=22C55E&width=430&lines=📫+Let's+Connect+and+Collaborate;Open+to+Web%2C+Cloud%2C+%26+AI+Projects" />
-</p>
+Open to web, cloud, and AI-related opportunities and collaborations.
 
 <p>
-  <a href="https://thasheel.github.io/Portfolio.io/-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4F46E5.svg?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://github.com/Thasheel" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammedthasheel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="80" /><br/>
-  <i>"Code. Deploy. Repeat. Always shipping something new."</i>
+  <a href="https://github.com/Thasheel"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohammedthasheel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohdthasheelok@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
